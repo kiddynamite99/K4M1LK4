@@ -1,4 +1,5 @@
 title: "Mi Portafolio"
+theme: jekyll-theme-leaf
 description: "Portafolio profesional de K4M1LK4"
 baseurl: ""  # No lo cambies si estás usando GitHub Pages en la raíz
 url: "https://k4m1lk4.github.io"  # Cambia esto por tu URL si es diferente
